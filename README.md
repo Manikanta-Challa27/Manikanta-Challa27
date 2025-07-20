@@ -47,7 +47,7 @@ I'm a final-year **B.Tech Computer Science and Engineering** student at Velagapu
 ---
 
 ## 📚 Publications and Research
-- IEEE: Real-Time Wearable for Neck Posture Alert – [DOI](https://ieeexplore.ieee.org/document/10797160)  
+- IEEE: Virtual Circuit based Real Time Wearable Device for Alerting Erroneous Neck Posture – [DOI](https://ieeexplore.ieee.org/document/10797160)  
 
 ---
 
